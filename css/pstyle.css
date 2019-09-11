@@ -1,0 +1,47 @@
+
+body{
+
+
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: #3FACE4;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+      } 
+   th {
+    background-color: #3FACE4;
+    color: white;
+     }
+   tr:nth-child(even) {background-color: #f2f2f2}
+
+   .pat{
+
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 200px;
+margin-bottom: 50px;
+text-align: center
+
+   }
+
+
+   .pat h1{
+       display: inline-block;
+    font-size: 50px;
+    font: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+
+   }
+
+
+   a{
+
+display: inline block;
+    
+   }
